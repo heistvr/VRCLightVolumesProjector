@@ -8,3 +8,6 @@ is located in Assets/VRCLightVolumes.
 
 Drag the Light Volumes Projector into your scene and adjust the Near/Far Clip Plane and
 Aspect Ratio to fit your area.
+
+Adjust the RGB and Alpha values of the VRCVolumeProjectorMat material to dial in your desired
+light intensity.
